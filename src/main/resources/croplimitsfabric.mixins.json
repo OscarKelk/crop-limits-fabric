@@ -4,6 +4,7 @@
   "package": "com.oscarkelk.croplimitsfabric.mixin",
   "compatibilityLevel": "JAVA_16",
   "mixins": [
+    "BlockItemMixin"
   ],
   "client": [
   ],
