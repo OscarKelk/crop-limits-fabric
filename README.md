@@ -7,7 +7,11 @@ Crops are restricted to certain biomes by:
 - Dimension
 
 Hot: `Cactus, Beetroot Seeds`
+
 Regular: `Wheat Seeds, Pumpkin Seeds, Sugar Cane, Melon Seeds, Sweet Berries`
+
 Cold: `Pumpkin Seeds, Sweet Berries`
+
 Jungle: `Sugar Cane, Melon Seeds, Bamboo, Cocoa Beans`
+
 Nether: `Nether Wart`
